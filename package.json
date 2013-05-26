@@ -1,6 +1,6 @@
 {
   "name": "node-env-fallback",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "NODE_ENV with fallback",
   "main": "index.js",
   "scripts": {

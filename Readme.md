@@ -1,7 +1,7 @@
 
-[![build status](https://secure.travis-ci.org/nulltask/node-with-fallback.png)](http://travis-ci.org/nulltask/node-with-fallback)
-
 # node-env-fallback
+
+[![Build Status](https://travis-ci.org/nulltask/node-env-fallback.svg?branch=master)](https://travis-ci.org/nulltask/node-env-fallback)
 
 `NODE_ENV` with fallback.
 
